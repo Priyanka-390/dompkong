@@ -23,7 +23,7 @@ const Mint = () => {
       <div className="container max-w-[1140px] mx-auto px-3">
         <div className="flex sm:flex-row flex-wrap -mx-3 lg:pt-16 md:pt-8 sm:pt-5 pt-4 items-center flex-col-reverse">
           <div className=" md:w-1/2 w-full px-3 flex justify-center sm:pt-0 pt-8" >
-            <div className="" ><img src={img1} alt="1" data-aos="zoom-in" /></div>
+            <div className="" ><img src={img1} alt="1" data-aos="zoom-in" className="max-h-[405px] sm:max-h-[804px]" /></div>
           </div>
           <div className=" md:w-1/2 w-full px-3" data-aos="zoom-in-up">
             <h2 className="text-white md:text-[64px] sm:text-start text-center text-4xl font-azosans  font-normal leading-[108%]">
