@@ -53,7 +53,7 @@ const Roadmap2 = () => {
                 </div>
               </div>
               <span>
-                <h5 className="text-white font-AzoSans sm:text-xl text-lg leading-[21.75px] md:mb-2 mb-1">
+                <h5 className="text-white font-azosans sm:text-xl text-lg leading-[21.75px] md:mb-2 mb-1">
                   Phase 1
                 </h5>
                 <p className="text-white md:text-base text-sm font-Montserrat md:max-w-[593px]">

@@ -57,9 +57,9 @@ const Kongs = () => {
           />
         </span>
         <div className="flex justify-center items-center flex-col lg:mt-6 py-6 " data-aos="zoom-in">
-          {tab === "tab1" && <img src={blackmonkey} alt="blackmonkey" />}{" "}
-          {tab === "tab2" && <img src={group2} alt="2" />}{" "}
-          {tab === "tab3" && <img src={group3} alt="3" />}
+          {tab === "tab1" && <img src={blackmonkey} alt="blackmonkey" className="max-h-[700]" />}{" "}
+          {tab === "tab2" && <img src={group2} alt="2" className="max-h-[700]" />}{" "}
+          {tab === "tab3" && <img src={group3} alt="3" className="max-h-[700]" />}
         </div>
         <span className="flex flex-nowrap overflow-y-scroll gap-5 mx-auto md:justify-center md:items-center">
                   <img
