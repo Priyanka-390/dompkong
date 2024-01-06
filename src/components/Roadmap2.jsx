@@ -79,7 +79,7 @@ const Roadmap2 = () => {
                     />
                   </svg>
                 </span>
-                <div className="bg-white lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full flex justify-center items-center text-xl font-Montserrat font-black leading-[21.75px] group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] duration-300">
+                <div className="bg-white lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full flex justify-center items-center md:text-xl sm:text-lg text-sm font-Montserrat font-black leading-[21.75px] group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] duration-300">
                   40%
                 </div>
               </div>
@@ -110,7 +110,7 @@ const Roadmap2 = () => {
                     />
                   </svg>
                 </span>
-                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] bg-white rounded-full flex justify-center items-center font-Montserrat text-xl font-black  leading-[21.75px] group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] duration-300">
+                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] bg-white rounded-full flex justify-center items-center font-Montserrat md:text-xl sm:text-lg text-sm font-black  leading-[21.75px] group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] duration-300">
                   60%
                 </div>
               </div>
@@ -141,7 +141,7 @@ const Roadmap2 = () => {
                     />
                   </svg>
                 </span>
-                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full bg-white text-xl font-Montserrat flex justify-center items-center font-black group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] leading-[21.75px] duration-300">
+                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full bg-white md:text-xl sm:text-lg text-sm font-Montserrat flex justify-center items-center font-black group-hover:bg-[#FDDA60] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] leading-[21.75px] duration-300">
                   80%
                 </div>
               </div>
@@ -172,7 +172,7 @@ const Roadmap2 = () => {
                     />
                   </svg>
                 </span>
-                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full bg-white flex justify-center items-center text-xl font-Montserrat font-black leading-[21.75px] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] group-hover:bg-[#FDDA60]">
+                <div className="lg:w-[76px] md:w-[65px] w-[55px] lg:h-[76px] md:h-[65px] h-[55px] rounded-full bg-white flex justify-center items-center md:text-xl sm:text-lg text-sm font-Montserrat font-black leading-[21.75px] group-hover:shadow-[0px_4px_21px_0px_#FDDA60B2] group-hover:bg-[#FDDA60]">
                   100%
                 </div>
               </div>

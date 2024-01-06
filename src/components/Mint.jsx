@@ -19,11 +19,18 @@ const Mint = () => {
   }
   const maincount = count < 10 ? `0${count}` : count;
   return (
-    <div className="relative z-10 pb-2  overflow-x-clip" >
+    <div className="relative z-10 pb-2  overflow-x-clip">
       <div className="container max-w-[1140px] mx-auto px-3">
         <div className="flex sm:flex-row flex-wrap -mx-3 lg:pt-16 md:pt-8 sm:pt-5 pt-4 items-center flex-col-reverse">
-          <div className=" md:w-1/2 w-full px-3 flex justify-center sm:pt-0 pt-8" >
-            <div className="" ><img src={img1} alt="1" data-aos="zoom-in" className="max-h-[405px] sm:max-h-[804px]" /></div>
+          <div className=" md:w-1/2 w-full px-3 flex justify-center sm:pt-0 pt-8">
+            <div className="">
+              <img
+                src={img1}
+                alt="1"
+                data-aos="zoom-in"
+                className="max-h-[405px] sm:max-h-[804px]"
+              />
+            </div>
           </div>
           <div className=" md:w-1/2 w-full px-3" data-aos="zoom-in-up">
             <h2 className="text-white md:text-[64px] sm:text-start text-center text-4xl font-azosans  font-normal leading-[108%]">
@@ -31,16 +38,16 @@ const Mint = () => {
             </h2>
             <div className="md:pt-[51px] sm:pt-10 pt-5 flex justify-between">
               <div>
-                <p className="text-white sm:text-start text-center md:text-4xl sm:text-2xl text-xl  font-Montserratserrat font-extrabold leading-[108%]">
+                <p className="text-white sm:text-start text-center md:text-4xl sm:text-2xl text-xl  font-Montserrat font-extrabold leading-[108%]">
                   9999{" "}
                 </p>
-                <p className="text-white sm:text-start text-center font-Montserratserrat md:pt-3 sm:pt-2 pt-1 text-base font-normal">
+                <p className="text-white sm:text-start text-center font-Montserrat md:pt-3 sm:pt-2 pt-1 text-base font-normal">
                   of 10,000 minted
                 </p>
-                <p className="text-white sm:text-start text-center md:text-4xl sm:text-2xl text-xl font-Montserratserrat md:pt-8 sm:pt-6 pt-4 font-extrabold leading-[108%]">
+                <p className="text-white sm:text-start text-center md:text-4xl sm:text-2xl text-xl font-Montserrat md:pt-8 sm:pt-6 pt-4 font-extrabold leading-[108%]">
                   Max 9
                 </p>
-                <p className="text-white sm:text-start text-center font-Montserratserrat text-base md:pt-3 sm:pt-2 pt-1 font-normal">
+                <p className="text-white sm:text-start text-center font-Montserrat text-base md:pt-3 sm:pt-2 pt-1 font-normal">
                   NFTs per transaction
                 </p>
               </div>

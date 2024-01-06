@@ -139,13 +139,13 @@ const Utilities = () => {
           {e.svg}
         </span>
         <p
-          className="text-white md:pt-4 pt-2 md:text-2xl text-xl font-Montserratserrat  group-hover:text-black text-center font-semibold "
+          className="text-white md:pt-4 pt-2 md:text-2xl text-xl font-Montserrat  group-hover:text-black text-center font-semibold "
           data-aos="fade-left"
         >
           {e.heading}
         </p>
         <p
-          className="text-white md:max-w-[340px] md:pt-3 sm:pt-2 pt-1  group-hover:text-black sm:text-base text-sm font-Montserratserrat text-center font-normal leading-[160%]"
+          className="text-white md:max-w-[340px] md:pt-3 sm:pt-2 pt-1  group-hover:text-black sm:text-base text-sm font-Montserrat text-center font-normal leading-[160%]"
           data-aos="fade-right"
         >
           {e.para}{" "}

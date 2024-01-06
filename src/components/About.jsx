@@ -11,7 +11,7 @@ const About = () => {
               About{" "}
             </h2>
             <div className="flex md:justify-start justify-center">
-              <p className="max-w-[510px] text-white md:text-start text-center font-Montserratserrat text-base font-normal" data-aos="flip-right">
+              <p className="max-w-[510px] text-white md:text-start text-center font-Montserrat text-base font-normal" data-aos="flip-right">
                 Turpis et tortor vel pharetra nibh. Mauris nisl sit vitae
                 viverra amet et. Erat nam molestie. Vitae mollis lacus senectus
                 mattis nisl. Porta , adipiscing sed mus diam amet, ac sed

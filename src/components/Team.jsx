@@ -160,11 +160,11 @@ const Team = () => {
       <div className="flex flex-row flex-wrap -mx-3 md:pb-5">
         <div className="md:w-1/2 w-full px-3" data-aos="fade-right">
           <div className="flex md:justify-start md:items-start items-center justify-center">
-            <p className="text-white md:text-2xl text-xl md:text-start text-center font-Montserratserrat font-bold md:pt-5 pt-3">
+            <p className="text-white md:text-2xl text-xl md:text-start text-center font-Montserrat font-bold md:pt-5 pt-3">
               {e.head}
             </p>
           </div>
-          <p className="text-white md:text-xl text-lg md:text-start text-center font-normal font-Montserratserrat sm:pt-3 pt-1 md:pb-8 pb-5">
+          <p className="text-white md:text-xl text-lg md:text-start text-center font-normal font-Montserrat sm:pt-3 pt-1 md:pb-8 pb-5">
             {e.para}
           </p>
           <div className="flex md:justify-start justify-center">
@@ -177,17 +177,29 @@ const Team = () => {
         </div>
         <div className="md:w-1/2 w-full  px-3 flex flex-col md:items-start md:justify-start justify-center  items-center">
           <div className="flex flex-col justify-center items-center">
-            <p className="text-white md:text-2xl text-xl font-Montserratserrat md:text-start text-center font-bold md:pt-5 pt-8" data-aos="fade-left">
+            <p
+              className="text-white md:text-2xl text-xl font-Montserrat md:text-start text-center font-bold md:pt-5 pt-8"
+              data-aos="fade-left"
+            >
               {e.head2}
             </p>
           </div>
-          <p className="text-white md:text-xl text-lg font-normal md:text-start text-center font-Montserratserrat sm:pt-3 pt-1" data-aos="fade-right">
+          <p
+            className="text-white md:text-xl text-lg font-normal md:text-start text-center font-Montserrat sm:pt-3 pt-1"
+            data-aos="fade-right"
+          >
             {e.para2}
           </p>
-          <p className="text-white md:text-base text-sm font-normal md:text-start text-center font-Montserratserrat md:pt-8 sm:pt-3 pt-2 md:max-w-[570px]" data-aos="fade-left">
+          <p
+            className="text-white md:text-base text-sm font-normal md:text-start text-center font-Montserrat md:pt-8 sm:pt-3 pt-2 md:max-w-[570px]"
+            data-aos="fade-left"
+          >
             {e.para3}{" "}
           </p>
-          <p className="text-white  md:text-base text-sm font-normal md:text-start text-center font-Montserratserrat md:pt-2 pt-1 ma:max-w-[570px]" data-aos="fade-right">
+          <p
+            className="text-white  md:text-base text-sm font-normal md:text-start text-center font-Montserrat md:pt-2 pt-1 ma:max-w-[570px]"
+            data-aos="fade-right"
+          >
             {e.para4}{" "}
           </p>
           <div className="flex md:pt-5 pt-3 md:gap-4 gap-3">
